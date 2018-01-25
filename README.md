@@ -1,6 +1,6 @@
 helloci
 =======
-hello again
+hello again!
 Test projects for Git training
 
 Build
